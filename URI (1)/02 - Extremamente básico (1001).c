@@ -10,9 +10,5 @@ int main()
 	
 	printf("X = %d\n" ,soma);
 	
-	printf("X = %d\n" ,num1);
-	printf("X = %d\n" ,num2);
-
-	
 	return 0;
 }
